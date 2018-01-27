@@ -1,0 +1,5 @@
+hello,this is a text
+place,where is your home
+home,where you will go
+text,why do you do for it
+wind,I like the name
